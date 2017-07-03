@@ -1,0 +1,14 @@
+1.) Install WampServer, as normal settings, to get the servers running, with localhost as the defualt name.
+2.) The details to access PHPMyAdmin is in the connect.php file.
+3.) Create a Database first called students.
+4.) Import the mydb.sql file in to the 'students' database in PHPMyAdmin.
+5.) Save the students folder in the 'www' folder where wamp is set up. 
+This is found with the following path on a windows machine:
+
+C:\wamp64\www
+
+Bearing in mind the computer is a 64 bit machine
+
+5.) Type in localhost in the browser URL. This will allow you to see the students folder, thereafter click on the 'addNewRecord' 
+file to access the student results form.
+
